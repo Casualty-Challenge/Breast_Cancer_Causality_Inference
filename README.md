@@ -15,13 +15,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 ![workflow](https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/actions/workflows/codeql-analysis.yml/badge.svg)
 ![workflow](https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/actions/workflows/cml.yaml/badge.svg)
 [![Build Status](https://app.travis-ci.com/heavye/AgriTech---USGS-LIDAR-Challenge.svg?branch=main)](https://app.travis-ci.com/heavye/AgriTech---USGS-LIDAR-Challenge)
-
-
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -76,9 +79,6 @@ Merge machine learning with causal inference;
   </ol>
 </details>
 
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -171,7 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference.git](https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference.git)
 
-
+https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference.git
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -181,9 +181,14 @@ Project Link: [https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inf
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-url]: https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/stargazers
-[issues-shield]: https://img.shields.io/github/issues/heavye/AgriTech---USGS-LIDAR-Challenge.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Casualty-Challenge/Breast_Cancer_Causality_Inference.svg?style=for-the-badge
 [issues-url]: https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/issues
-[license-shield]: https://img.shields.io/github/license/heavye/AgriTech---USGS-LIDAR-Challenge.svg?style=for-the-badge
-[license-url]: https://github.com/heavye/AgriTech---USGS-LIDAR-Challenge/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[license-shield]: https://img.shields.io/github/license/Casualty-Challenge/Breast_Cancer_Causality_Inference.svg?style=for-the-badge
+[license-url]: https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Casualty-Challenge/Breast_Cancer_Causality_Inference.svg?style=for-the-badge
+[contributors-url]: https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Casualty-Challenge/Breast_Cancer_Causality_Inference.svg?style=for-the-badge
+[forks-url]: https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/network/members
+[stars-shield]: https://img.shields.io/github/stars/Casualty-Challenge/Breast_Cancer_Causality_Inference.svg?style=for-the-badge
+[stars-url]: https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/stargazers
 [product-screenshot]: images/screenshot.png
