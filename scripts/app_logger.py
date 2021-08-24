@@ -31,3 +31,4 @@ class App_Logger:
         self.logger.addHandler(self.get_file_handler())
         self.logger.addHandler(self.get_stream_handler())
         return self.logger
+    #def
