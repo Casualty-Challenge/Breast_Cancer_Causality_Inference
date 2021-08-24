@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contributers
     Biniam Sisay -
     Euel Fantaye - euelfantaye@gmail.com
-    Yosef Engdawork -
+    Yosef Engdawork - josephnewgold1@gmail.com
     Maelaf Tegegn -
 
 Project Link: [https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference.git](https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference.git)
