@@ -32,7 +32,7 @@
     <img src="https://user-images.githubusercontent.com/49339609/130642007-ccda6c0d-8471-4ae7-80a8-9a6f155cf654.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">AgriTech USGS LIDAR</h3>
+  <h3 align="center">Breast Cancer</h3>
 
   <p align="center">
 Perform a causal inference task using Pearl’s framework;
@@ -163,7 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contributers
-    Biniam Sisay -
+    Biniam Sisay - binasisayet8790@gmail.com
     Euel Fantaye - euelfantaye@gmail.com
     Yosef Engdawork -
     Maelaf Tegegn -
