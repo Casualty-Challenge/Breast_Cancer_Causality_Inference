@@ -1,0 +1,6 @@
+setuptools
+sklearn
+matplotlib
+pandas
+mlflow
+dvc
