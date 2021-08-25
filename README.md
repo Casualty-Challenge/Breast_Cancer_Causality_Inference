@@ -32,7 +32,7 @@
     <img src="https://user-images.githubusercontent.com/49339609/130856331-9af2f380-7f27-45be-baa5-231619d7afa0.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Breast Cancer</h3>
+  <h3 align="center">Breast Cancer Diagnosis and Prognosis Via Linear Programming</h3>
 
   <p align="center">
 Perform a causal inference task using Pearl’s framework;
