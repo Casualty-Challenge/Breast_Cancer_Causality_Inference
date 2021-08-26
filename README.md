@@ -24,8 +24,7 @@
 
 ![workflow](https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/actions/workflows/codeql-analysis.yml/badge.svg)
 ![workflow](https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference/actions/workflows/cml.yaml/badge.svg)
-[![Build Status](https://app.travis-ci.com/heavye/week7.svg?branch=main)](https://app.travis-ci.com/heavye/week7)
-<!-- PROJECT LOGO -->
+[![Build Status](https://app.travis-ci.com/heavye/Breast_Cancer_Causality_Inference.svg?branch=main)](https://app.travis-ci.com/heavye/Breast_Cancer_Causality_Inference)<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/Casualty-Challenge/Breast_Cancer_Causality_Inference">
